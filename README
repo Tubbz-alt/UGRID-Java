@@ -1,0 +1,5 @@
+Download the UGRID NetCDF-Java JAR from:
+
+https://github.com/downloads/asascience/THREDDS/netcdf-ugrid.jar
+
+And add it to the library path for these projects.
